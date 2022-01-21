@@ -2,6 +2,7 @@ body{
   background-color:black;
   font-family:arial;
   color:white;
+  align:center;
 }
 
 h1{
@@ -16,6 +17,7 @@ h1{
     padding: 20px;
     border-radius: 25px;
     align:center;
+  margin: 10px;
    
 }
 
